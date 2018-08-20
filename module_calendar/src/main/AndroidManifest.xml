@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.yesway.calendardemo">
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.yesway.calendardemo.MainActivity">
+        </activity>
+        <activity android:name="com.yesway.calendardemo.ComplexDemoActivity">
+        </activity>
+        <activity android:name="com.yesway.calendardemo.YearViewActivity">
+        </activity>
+
+        <activity android:name="com.yesway.calendardemo.MonthViewDemoActivity">
+        </activity>
+        <activity android:name="com.yesway.calendardemo.TransitionDemoActivity">
+        </activity>
+        <activity android:name="com.yesway.calendardemo.XiaomiCalendarActivity"/>
+        <activity android:name="com.yesway.calendardemo.ScrollerComplexActivity"/>
+        <activity
+            android:name="com.yesway.calendardemo.ScrollerCalendarActivity"></activity>
+        <activity android:name="com.yesway.calendardemo.MonthViewPagerActivity">
+        </activity>
+        <activity
+            android:name="com.yesway.calendardemo.ScrollerMonthCalendarActivity"></activity>
+    </application>
+
+</manifest>

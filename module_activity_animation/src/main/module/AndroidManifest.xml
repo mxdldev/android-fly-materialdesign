@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.yesway.animation">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainAnimatActivity"
+            android:label="@string/title_activity_main_animat"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".FirstAnimationActivity"
+            android:label="FirstAnimationActivity"
+            android:launchMode="singleTop"
+            android:theme="@style/DefaultAnimation">
+        </activity>
+        <activity
+            android:name=".SecondAnimationActivity"
+            android:label="@string/title_activity_second_animation"
+            android:launchMode="singleTop"
+            android:theme="@style/RightInBottomOut">
+        </activity>
+        <activity
+            android:name=".ThirdAnimationActivity"
+            android:label="@string/title_activity_third_animation"
+            android:launchMode="singleTop"
+            android:theme="@style/LeftInLeftOut">
+        </activity>
+        <activity
+            android:name=".FourAnimationActivity"
+            android:label="@string/title_activity_four_animation"
+            android:launchMode="singleTop"
+            android:theme="@style/LeftInLeftOut">
+        </activity>
+        <activity
+            android:name=".DefaultAnimationActivity"
+            android:label="@string/title_activity_default_animation">
+        </activity>
+    </application>
+
+</manifest>

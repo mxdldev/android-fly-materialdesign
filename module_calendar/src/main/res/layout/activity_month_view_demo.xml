@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:calendar="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    tools:context="com.yesway.calendardemo.MonthViewDemoActivity">
+
+    <com.yesway.calendarview.MonthView
+        android:id="@+id/mv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        calendar:dayCircleRadius="17dp"
+        calendar:dayRowHeight="44dp"
+        calendar:dayTextColor="#222222"
+        calendar:dayTextSize="14sp"
+        calendar:monthHeaderHeight="60dp"
+        calendar:monthTextSize="21sp"
+        calendar:monthTitleColor="#CCBB22"
+        calendar:selectDayCircleBgColor="@color/colorPrimary"
+        calendar:showMonthTitle="true"
+        calendar:showWeekDivider="true"
+        calendar:showWeekLabel="true"
+        calendar:weekLabelTextColor="#559955"
+        calendar:weekLabelTextSize="12sp"/>
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/mv"
+        android:layout_marginTop="10dp"
+        android:onClick="click"
+        android:text="Clear Selection"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/button5"
+        android:onClick="click"
+        android:text="Change Selection Style"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/button5"
+        android:onClick="click"
+        android:text="Change Month"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/button7"
+        android:onClick="click"
+        android:text="Month/week mode"
+        android:textAllCaps="false"/>
+
+</RelativeLayout>

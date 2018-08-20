@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="cn.yesway.videopager">
+
+    <application
+        android:theme="@style/AppTheme">
+        <activity android:name="cn.yesway.videopager.MainActivity"/>
+    </application>
+
+</manifest>

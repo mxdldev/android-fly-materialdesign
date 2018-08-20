@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yesway.calendarview.TransitRootView
+    android:id="@+id/trv"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".ComplexDemoActivity">
+
+    <include layout="@layout/include_transit1"/>
+
+    <include layout="@layout/include_transit2"/>
+
+</com.yesway.calendarview.TransitRootView>

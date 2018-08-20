@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+    >
+
+    <TextView
+        android:id="@+id/txt_yearview_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:text="2017年"
+        android:textColor="#2a2a2a"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="8dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/calendar_statistics_bg"
+        android:minHeight="0dp"
+        android:minWidth="0dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="5dp"
+        android:text="统计"
+        android:textColor="#53b9f5"
+
+        />
+    <TextView
+        android:id="@+id/txt_yearview_distance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="里程：966公里"
+        android:textSize="12sp"
+        android:textColor="#787878"
+        android:layout_below="@+id/txt_yearview_title"
+        android:layout_marginTop="20dp"
+        />
+    <TextView
+        android:id="@+id/txt_yearview_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="费用：1234元"
+        android:textSize="12sp"
+        android:textColor="#787878"
+        android:layout_alignTop="@+id/txt_yearview_distance"
+        android:layout_centerHorizontal="true"
+        />
+    <TextView
+        android:id="@+id/txt_yearview_oil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="油耗：123L"
+        android:textSize="12sp"
+        android:textColor="#787878"
+        android:layout_alignTop="@+id/txt_yearview_distance"
+        android:layout_alignParentRight="true"
+        />
+</RelativeLayout>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="sans_serif" translatable="false">sans-serif</string>
+    <string name="monthViewPager_scroll_behavior" translatable="false">com.yesway.calendarview.ScrollingMonthPagerBehavior</string>
+</resources>

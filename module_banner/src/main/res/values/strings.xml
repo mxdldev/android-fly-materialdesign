@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Banner Example</string>
+    <string name="situationOne">ScrollView嵌套banner</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+</resources>

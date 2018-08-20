@@ -1,0 +1,30 @@
+<resources>
+	<dimen name="year_header_text_height">45dp</dimen>
+	<dimen name="year_header_text_size">34sp</dimen>
+    <dimen name="year_header_lunar_text_size">12sp</dimen>
+    <dimen name="month_label_text_size">16sp</dimen>
+    <dimen name="month_label_text_height">35dp</dimen>
+    <dimen name="day_label_text_size">10sp</dimen>
+    <dimen name="day_label_circle_radius">7.5dp</dimen>
+    <dimen name="day_row_height">19dp</dimen>
+    <dimen name="main_padding">5dp</dimen>
+    <dimen name="padding_between_year_and_month">5dp</dimen>
+
+    <!-- MonthView -->
+    <dimen name="text_size_day">11.5sp</dimen>
+    <dimen name="text_size_month">15sp</dimen>
+    <dimen name="text_size_week">12sp</dimen>
+    <dimen name="header_month_height">64dip</dimen>
+    <dimen name="selected_day_radius">16dip</dimen>
+    <dimen name="week_label_between_divider_size">10dip</dimen>
+    <dimen name="row_height">38dip</dimen>
+
+    <!-- MonthViewPager -->
+    <dimen name="icon_margin">13dp</dimen>
+    <dimen name="month_day_row_height">145dp</dimen>
+    <dimen name="padding_between_day_and_day">20dp</dimen>
+
+
+    <dimen name="text_size_day_name">10sp</dimen>
+    <dimen name="calendar_height">270dip</dimen>
+</resources>

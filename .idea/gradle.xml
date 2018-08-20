@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/soft/android/gradle/gradle-4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/lib_banner" />
+            <option value="$PROJECT_DIR$/lib_calendarview" />
+            <option value="$PROJECT_DIR$/lib_circlemenu" />
+            <option value="$PROJECT_DIR$/lib_common" />
+            <option value="$PROJECT_DIR$/lib_fabmenu" />
+            <option value="$PROJECT_DIR$/lib_recycleview_swipe" />
+            <option value="$PROJECT_DIR$/module_activity_animation" />
+            <option value="$PROJECT_DIR$/module_banner" />
+            <option value="$PROJECT_DIR$/module_book_page" />
+            <option value="$PROJECT_DIR$/module_calendar" />
+            <option value="$PROJECT_DIR$/module_channle_manager" />
+            <option value="$PROJECT_DIR$/module_circlemenu" />
+            <option value="$PROJECT_DIR$/module_desk_menu" />
+            <option value="$PROJECT_DIR$/module_drawerlayout_coordinatorlayout" />
+            <option value="$PROJECT_DIR$/module_edit_shake" />
+            <option value="$PROJECT_DIR$/module_fragmenttabhost" />
+            <option value="$PROJECT_DIR$/module_fragmenttabhost_viewpager" />
+            <option value="$PROJECT_DIR$/module_image_pager" />
+            <option value="$PROJECT_DIR$/module_recycleview_swipe" />
+            <option value="$PROJECT_DIR$/module_ripple" />
+            <option value="$PROJECT_DIR$/module_tablayout" />
+            <option value="$PROJECT_DIR$/module_transition" />
+            <option value="$PROJECT_DIR$/module_video_pager" />
+            <option value="$PROJECT_DIR$/mudule_fab_menu" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

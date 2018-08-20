@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">module_activity_animation</string>
+    <string name="title_activity_main_animations">MainAnimationsActivity</string>
+    <string name="title_activity_second_main">SecondMainActivity</string>
+    <string name="title_activity_main_animat">MainAnimatActivity</string>
+    <string name="title_activity_second_animation">SecondAnimationActivity</string>
+    <string name="title_activity_third_animation">ThirdAnimationActivity</string>
+    <string name="title_activity_four_animation">FourAnimationActivity</string>
+    <string name="title_activity_default_animation">DefaultAnimationActivity</string>
+</resources>

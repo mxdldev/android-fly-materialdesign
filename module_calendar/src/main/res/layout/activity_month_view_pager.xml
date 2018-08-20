@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:calendar="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f0f0f0"
+    android:orientation="vertical"
+    tools:context=".MonthViewPagerActivity">
+
+    <com.yesway.calendarview.MonthViewPager
+        android:id="@+id/mvp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        calendar:ic_next_month="@mipmap/right_icon"
+        calendar:ic_previous_month="@mipmap/left_icon"
+        calendar:month_marginTop="0dp"
+        calendar:otherMonthTextColor="#CCCCCC"
+        calendar:showOtherMonth="true"
+        calendar:show_indicator="true"
+        >
+
+        <com.yesway.calendarview.MonthView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            calendar:showMonthTitle="true"
+            calendar:showWeekDivider="false"
+            calendar:showWeekLabel="true"/>
+
+    </com.yesway.calendarview.MonthViewPager>
+
+     <android.support.v4.view.ViewPager
+         android:id="@+id/viewpager_dayview"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"/>
+</LinearLayout>

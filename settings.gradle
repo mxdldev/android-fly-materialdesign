@@ -1,0 +1,3 @@
+include ':app', ':lib_common', ':lib_banner', ':module_video_pager', ':module_image_pager', ':module_drawerlayout_coordinatorlayout', ':lib_recycleview_swipe', ':module_recycleview_swipe', ':module_desk_menu', ':module_channle_manager', ':module_tablayout', ':module_fragmenttabhost_viewpager', ':module_fragmenttabhost', ':lib_circlemenu', ':module_circlemenu', ':module_ripple', ':module_edit_shake', ':lib_fabmenu', ':mudule_fab_menu', ':module_book_page', ':module_activity_animation', ':lib_calendarview', ':module_calendar', ':module_transition',
+        ':module_banner',
+        ':lib_common'

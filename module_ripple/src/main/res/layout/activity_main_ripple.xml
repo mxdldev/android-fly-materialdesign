@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+   <com.yesway.ripple.RippleImageView
+       android:id="@+id/rippleImageView"
+       android:layout_width="match_parent"
+       android:layout_height="180dp"
+       android:background="#37B158"
+       app:show_spacing_time="800"
+       app:imageViewWidth="35dp"
+       app:imageViewHeigth="35dp"
+       android:layout_centerHorizontal="true">
+   </com.yesway.ripple.RippleImageView>
+
+   <Button
+       android:id="@+id/btn_start"
+       android:layout_width="100dp"
+       android:layout_height="50dp"
+       android:text="start"
+       />
+   <Button
+       android:id="@+id/btn_stop"
+       android:layout_width="100dp"
+       android:layout_height="50dp"
+       android:text="stop"
+       />
+</LinearLayout>

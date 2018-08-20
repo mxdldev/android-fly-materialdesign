@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalendarDemo</string>
+    <string name="event_str">Total events：%1$d</string>
+    <string name="event_type_str">Total event types：%1$d</string>
+    <string name="no_event">No Event</string>
+    <string name="title_activity_scroller_calendar">ScrollerCalendarActivity</string>
+</resources>

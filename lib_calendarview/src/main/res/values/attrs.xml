@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="YearView">
+        <attr name="showYearLabel" format="boolean"/>
+        <attr name="showYearLunarLabel" format="boolean"/>
+        <attr name="dividerColor" format="color"/>
+        <attr name="yearHeaderTextColor" format="color" />
+        <attr name="yearHeaderTextHeight" format="dimension"/>
+        <attr name="yearHeaderTextSize" format="dimension"/>
+        <attr name="yearHeaderLunarTextColor" format="color"/>
+        <attr name="yearHeaderLunarTextSize" format="dimension"/>
+        <attr name="yearHeaderDashColor" format="color"/>
+        <attr name="monthLabelTextColor" format="color"/>
+        <attr name="monthLabelTextSize" format="dimension"/>
+        <attr name="monthLabelTextHeight" format="dimension"/>
+
+        <attr name="dayLabelTextColor" format="color"/>
+        <attr name="dayLabelTextSize" format="dimension"/>
+        <attr name="dayLabelRowHeight" format="dimension"/>
+        <!--<attr name="dayLabelCircleTextColor" format="color"/>
+        <attr name="todayLabelCircleBgColor" format="color"/>
+        <attr name="todayLabelTextColor" format="color"/>-->
+        <attr name="dayLabelCircleRadius" format="dimension"/>
+        <attr name="dayLabelTextTodayColor" format="color"/>
+        <attr name="dayLabelCircleBgColor" format="color"/>
+        <attr name="monthDayRowHeight" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="MonthView">
+        <attr name="dayCircleRadius" format="dimension" />
+        <!--<attr name="dayCircleTextColor" format="color"/>-->
+        <attr name="selectDayCircleBgColor" format="color" />
+
+        <attr name="dayTextColor" format="color"/>
+        <attr name="dayTextSize" format="dimension"/>
+        <attr name="dayRowHeight" format="dimension" />
+
+        <!--<attr name="todayCircleBgColor" format="color"/>
+        <attr name="todayTextColor" format="color"/>-->
+
+        <attr name="monthTitleColor" format="color" />
+        <attr name="monthTextSize" format="dimension" />
+        <attr name="monthHeaderHeight" format="dimension" />
+        <attr name="weekLabelTextColor" format="color" />
+        <attr name="weekLabelTextSize" format="dimension" />
+
+        <attr name="showWeekLabel" format="boolean"/>
+        <attr name="showWeekDivider" format="boolean"/>
+        <attr name="showMonthTitle" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="MonthViewPager">
+        <attr name="show_indicator" format="boolean"/>
+        <attr name="ic_previous_month" format="reference"/>
+        <attr name="ic_next_month" format="reference"/>
+        <!-- top margin between MonthView and MonthViewPager -->
+        <attr name="month_marginTop" format="dimension"/>
+        <attr name="otherMonthTextColor" format="color" />
+        <attr name="showOtherMonth" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="TransitRootView">
+        <attr name="y2m_interpolator" format="reference" />
+        <attr name="m2y_interpolator" format="reference" />
+        <attr name="y_anim_duration" format="integer" />
+        <attr name="transit_base_duration" format="integer" />
+        <attr name="m_anim_duration" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="ScrollerMonthView">
+        <attr name="colorCurrentDay" format="color"/>
+        <attr name="colorSelectedDayBackground" format="color"/>
+        <attr name="colorSelectedDayText" format="color"/>
+        <attr name="colorPreviousDay" format="color"/>
+        <attr name="colorNormalDay" format="color" />
+        <attr name="colorMonthName" format="color" />
+        <attr name="colorDayName" format="color" />
+        <attr name="textSizeDay" format="dimension"/>
+        <attr name="textSizeMonth" format="dimension" />
+        <attr name="textSizeDayName" format="dimension" />
+        <attr name="headerMonthHeight" format="dimension" />
+        <attr name="selectedDayRadius" format="dimension" />
+        <attr name="calendarHeight" format="dimension" />
+        <attr name="enablePreviousDay" format="boolean" />
+        <attr name="currentDaySelected" format="boolean" />
+        <attr name="drawRoundRect" format="boolean" />
+        <attr name="firstMonth" format="enum">
+            <enum name="january" value="0" />
+            <enum name="february" value="1" />
+            <enum name="march" value="2" />
+            <enum name="april" value="3" />
+            <enum name="may" value="4" />
+            <enum name="june" value="5" />
+            <enum name="july" value="6" />
+            <enum name="august" value="7" />
+            <enum name="september" value="8" />
+            <enum name="october" value="9" />
+            <enum name="november" value="10" />
+            <enum name="december" value="11" />
+        </attr>
+        <attr name="lastMonth" format="enum">
+            <enum name="january" value="0" />
+            <enum name="february" value="1" />
+            <enum name="march" value="2" />
+            <enum name="april" value="3" />
+            <enum name="may" value="4" />
+            <enum name="june" value="5" />
+            <enum name="july" value="6" />
+            <enum name="august" value="7" />
+            <enum name="september" value="8" />
+            <enum name="october" value="9" />
+            <enum name="november" value="10" />
+            <enum name="december" value="11" />
+        </attr>
+    </declare-styleable>
+</resources>

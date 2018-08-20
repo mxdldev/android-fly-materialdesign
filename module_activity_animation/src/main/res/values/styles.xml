@@ -1,0 +1,40 @@
+<resources>
+    <style name="DefaultAnimation" parent="@style/AppTheme">
+        <item name="android:windowAnimationStyle">@style/DefaultAnimTheme</item>
+    </style>
+
+    <style name="AnimationBottom" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_center</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_center</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_to_bottom</item>
+    </style>
+      <style name="DefaultAnimTheme" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_center</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_center</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_right</item>
+    </style>
+
+    <style name="RightInBottomOut" parent="@style/AppTheme">
+        <item name="android:windowAnimationStyle">@style/RightInBottomOuts</item>
+    </style>
+    <style name="RightInBottomOuts" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_to_bottom</item>
+    </style>
+    <style name="LeftInLeftOut" parent="@style/AppTheme">
+        <item name="android:windowAnimationStyle">@style/LeftInLeftOuts</item>
+    </style>
+    <style name="LeftInLeftOuts" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_left</item>
+    </style>
+    <style name="LeftInBottomOut" parent="@style/AppTheme">
+        <item name="android:windowAnimationStyle">@style/LeftInBottomOuts</item>
+    </style>
+    <style name="LeftInBottomOuts" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_to_bottom</item>
+    </style>
+</resources>
