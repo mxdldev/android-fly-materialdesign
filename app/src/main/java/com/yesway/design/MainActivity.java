@@ -9,9 +9,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import com.alibaba.android.arouter.launcher.ARouter;
+import com.yesway.animation.MainAnimatActivity;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-
+  public static final String TAG = MainActivity.class.getSimpleName();
   @RequiresApi(api = Build.VERSION_CODES.O)
   @Override
   protected void onCreate(Bundle savedInstanceState) {
