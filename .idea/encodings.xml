@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/module_paper/src/main/java/paper/adapter/BookshelfImageAdapter.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/module_paper/src/main/java/paper/adapter/GwllImageAdapter.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/module_paper/src/main/java/paper/download/HttpDownload.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/module_paper/src/main/java/paper/paperlist/LazyScrollView.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/module_paper/src/main/java/paper/turnpage/BookLayout.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

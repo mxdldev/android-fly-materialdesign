@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/lib_banner" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/lib_calendarview" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/lib_common" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/lib_recycleview_swipe" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/module_activity_animation" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/module_banner" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/module_calendar" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/module_channle_manager" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/module_drawerlayout_coordinatorlayout" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/module_fragmenttabhost" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/module_fragmenttabhost_viewpager" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/module_image_pager" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/module_recycleview_swipe" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/module_tablayout" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/module_transition" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/module_video_pager" vcs="svn" />
   </component>
 </project>

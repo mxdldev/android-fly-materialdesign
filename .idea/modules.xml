@@ -2,34 +2,24 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/YeswayMaterialDesign1210.iml" filepath="$PROJECT_DIR$/YeswayMaterialDesign1210.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidMaterialDesign.iml" filepath="$PROJECT_DIR$/AndroidMaterialDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib_banner/lib_banner.iml" filepath="$PROJECT_DIR$/lib_banner/lib_banner.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib_calendarview/lib_calendarview.iml" filepath="$PROJECT_DIR$/lib_calendarview/lib_calendarview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lib_circlemenu/lib_circlemenu.iml" filepath="$PROJECT_DIR$/lib_circlemenu/lib_circlemenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib_common/lib_common.iml" filepath="$PROJECT_DIR$/lib_common/lib_common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lib_fabmenu/lib_fabmenu.iml" filepath="$PROJECT_DIR$/lib_fabmenu/lib_fabmenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib_recycleview_swipe/lib_recycleview_swipe.iml" filepath="$PROJECT_DIR$/lib_recycleview_swipe/lib_recycleview_swipe.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_activity_animation/module_activity_animation.iml" filepath="$PROJECT_DIR$/module_activity_animation/module_activity_animation.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_banner/module_banner.iml" filepath="$PROJECT_DIR$/module_banner/module_banner.iml" />
-      <module fileurl="file://$PROJECT_DIR$/module_book_page/module_book_page.iml" filepath="$PROJECT_DIR$/module_book_page/module_book_page.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_calendar/module_calendar.iml" filepath="$PROJECT_DIR$/module_calendar/module_calendar.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_channle_manager/module_channle_manager.iml" filepath="$PROJECT_DIR$/module_channle_manager/module_channle_manager.iml" />
-      <module fileurl="file://D:\workspace\YeswayMaterialDesign1210\module_drawerlayout_coordinatorlayout\module_cheesesquare.iml" filepath="D:\workspace\YeswayMaterialDesign1210\module_drawerlayout_coordinatorlayout\module_cheesesquare.iml" />
-      <module fileurl="file://$PROJECT_DIR$/module_circlemenu/module_circlemenu.iml" filepath="$PROJECT_DIR$/module_circlemenu/module_circlemenu.iml" />
-      <module fileurl="file://$PROJECT_DIR$/module_desk_menu/module_desk_menu.iml" filepath="$PROJECT_DIR$/module_desk_menu/module_desk_menu.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_drawerlayout_coordinatorlayout/module_drawerlayout_coordinatorlayout.iml" filepath="$PROJECT_DIR$/module_drawerlayout_coordinatorlayout/module_drawerlayout_coordinatorlayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/module_edit_shake/module_edit_shake.iml" filepath="$PROJECT_DIR$/module_edit_shake/module_edit_shake.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_fragmenttabhost/module_fragmenttabhost.iml" filepath="$PROJECT_DIR$/module_fragmenttabhost/module_fragmenttabhost.iml" />
-      <module fileurl="file://D:\workspace\YeswayMaterialDesign\module_fragmenttabhost_viewpager\module_fragmenttabhost.iml" filepath="D:\workspace\YeswayMaterialDesign\module_fragmenttabhost_viewpager\module_fragmenttabhost.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_fragmenttabhost_viewpager/module_fragmenttabhost_viewpager.iml" filepath="$PROJECT_DIR$/module_fragmenttabhost_viewpager/module_fragmenttabhost_viewpager.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_image_pager/module_image_pager.iml" filepath="$PROJECT_DIR$/module_image_pager/module_image_pager.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_recycleview_swipe/module_recycleview_swipe.iml" filepath="$PROJECT_DIR$/module_recycleview_swipe/module_recycleview_swipe.iml" />
-      <module fileurl="file://$PROJECT_DIR$/module_ripple/module_ripple.iml" filepath="$PROJECT_DIR$/module_ripple/module_ripple.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_tablayout/module_tablayout.iml" filepath="$PROJECT_DIR$/module_tablayout/module_tablayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_transition/module_transition.iml" filepath="$PROJECT_DIR$/module_transition/module_transition.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_video_pager/module_video_pager.iml" filepath="$PROJECT_DIR$/module_video_pager/module_video_pager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mudule_fab_menu/mudule_fab_menu.iml" filepath="$PROJECT_DIR$/mudule_fab_menu/mudule_fab_menu.iml" />
     </modules>
   </component>
 </project>
