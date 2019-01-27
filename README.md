@@ -1,4 +1,5 @@
- 1. 换场动画类 ：通用Activity换场动画,高级Activity换场动画  
+### 欢迎点赞加星，评论打call、加群：810970432
+1. 换场动画类 ：通用Activity换场动画,高级Activity换场动画  
  2. APP打开引导页：图片引导,视频引导
  3. 导航菜单类：TabLayout菜单、FragmentTabHost菜单、FragmentTabHost菜单 + ViewPager菜单、菜单拖拉重新排列、可删除
  4. 广告轮播类
@@ -50,3 +51,16 @@
  <img src="https://img-blog.csdnimg.cn/20190127121726849.gif" width="30%">
 * 左右翻页月日历
  <img src="https://img-blog.csdnimg.cn/20190127121802832.gif" width="30%">
+# 9.问题反馈
+AndroidMaterialDesign UI 框架下载地址：https://github.com/geduo83/AndroidMaterialDesign 欢迎点赞加星，评论打call、加群：810970432
+在使用中有任何问题，请在下方留言，或加入Android、Java开发技术交流群
+* QQ群：810970432
+* email：geduo_83@163.com
+<img src="https://img-blog.csdnimg.cn/20190126213618911.png" width="30%">
+# 10.关于作者
+```
+var geduo_83 = {
+    nickName  : "门心叼龙",
+    site : "http://www.weibo.com/geduo83"
+}
+```
