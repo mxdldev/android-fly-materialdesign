@@ -6,7 +6,7 @@
  6. Material Design支持库相关效果
  7. 日历相关效果：高仿小米日历、年月切换动画、滚动年日历、滚动月日历、左右翻页月日历
 # 1.功能列表
-<img src="https://img-blog.csdnimg.cn/20190127113304896.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70" width="40%"><br>
+<img src="https://img-blog.csdnimg.cn/20190127134105903.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70" width="40%"><br>
 # 2.换场动画类 
 *  通用Activity换场动画
 <img src="https://img-blog.csdnimg.cn/20190127115334220.gif" width="30%">
