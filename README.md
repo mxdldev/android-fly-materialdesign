@@ -8,7 +8,7 @@
 # 1.功能列表
 <img src="https://img-blog.csdnimg.cn/20190127113304896.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70" width="40%"><br>
 # 2.换场动画类 
-2.1 通用Activity换场动画
+*  通用Activity换场动画
 <img src="https://img-blog.csdnimg.cn/20190127115334220.gif" width="30%">
 * 高级Activity换场动画 
 <img src="https://img-blog.csdnimg.cn/20190127115646438.gif" width="30%">
