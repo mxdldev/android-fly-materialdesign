@@ -24,21 +24,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     Button btn4 = findViewById(R.id.btn4);
     Button btn5 = findViewById(R.id.btn5);
     Button btn51 = findViewById(R.id.btn51);
-    Button btn52 = findViewById(R.id.btn52);
     Button btn53 = findViewById(R.id.btn53);
     Button btn6 = findViewById(R.id.btn6);
     Button btn61 = findViewById(R.id.btn61);
-    Button btn7 = findViewById(R.id.btn7);
-    Button btn8 = findViewById(R.id.btn8);
-    Button btn9 = findViewById(R.id.btn9);
-    Button btn10 = findViewById(R.id.btn10);
-    Button btn11 = findViewById(R.id.btn11);
-//    Button btn12 = findViewById(R.id.btn12);
-//    Button btn13 = findViewById(R.id.btn13);
-//    Button btn14 = findViewById(R.id.btn14);
-//    Button btn15 = findViewById(R.id.btn15);
-//    Button btn16 = findViewById(R.id.btn16);
-    //Button btn17 = findViewById(R.id.btn17);
     Button btn18 = findViewById(R.id.btn18);
     Button btn19 = findViewById(R.id.btn19);
     Button btn20 = findViewById(R.id.btn20);
@@ -48,21 +36,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     btn4.setOnClickListener(this);
     btn5.setOnClickListener(this);
     btn51.setOnClickListener(this);
-    btn52.setOnClickListener(this);
     btn53.setOnClickListener(this);
     btn6.setOnClickListener(this);
     btn61.setOnClickListener(this);
-    btn7.setOnClickListener(this);
-    btn8.setOnClickListener(this);
-    btn9.setOnClickListener(this);
-    btn10.setOnClickListener(this);
-    btn11.setOnClickListener(this);
-//    btn12.setOnClickListener(this);
-//    btn13.setOnClickListener(this);
-//    btn14.setOnClickListener(this);
-//    btn15.setOnClickListener(this);
-//    btn16.setOnClickListener(this);
-    //btn17.setOnClickListener(this);
     btn18.setOnClickListener(this);
     btn19.setOnClickListener(this);
     btn20.setOnClickListener(this);
@@ -89,9 +65,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
       case R.id.btn51:
         ARouter.getInstance().build("/channel/manager/main").navigation();
         break;
-      case R.id.btn52:
-        ARouter.getInstance().build("/desk/menu/index").navigation();
-        break;
       case R.id.btn53:
         ARouter.getInstance().build("/tablayout/index").navigation();
         break;
@@ -100,21 +73,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         break;
       case R.id.btn61:
         ARouter.getInstance().build("/tabhost/tour/index").navigation();
-        break;
-      case R.id.btn7:
-        ARouter.getInstance().build("/criclemenu/index").navigation();
-        break;
-      case R.id.btn8:
-        ARouter.getInstance().build("/ripple/index").navigation();
-        break;
-      case R.id.btn9:
-        ARouter.getInstance().build("/edit/shake/index").navigation();
-        break;
-      case R.id.btn10:
-        ARouter.getInstance().build("/bookpage/index").navigation();
-        break;
-      case R.id.btn11:
-        ARouter.getInstance().build("/fabmenu/index").navigation();
         break;
       case R.id.btn18:
         ARouter.getInstance().build("/calendar/index").navigation();

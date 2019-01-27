@@ -13,17 +13,10 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:onClick="click"
-        android:text="XIAOMI calendar Demo"
+        android:text="高仿小米日历Demo"
         android:textAllCaps="false"/>
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:onClick="click"
-        android:text="YearView Demo"
-        android:textAllCaps="false"/>
+
 
     <Button
         android:id="@+id/button1"
@@ -37,21 +30,12 @@
         />
 
     <Button
-        android:id="@+id/button3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:onClick="click"
-        android:text="Transition Demo"
-        android:textAllCaps="false"/>
-
-    <Button
         android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:onClick="click"
-        android:text="A Complex Demo"
+        android:text="年月切换动画"
         android:textAllCaps="false"/>
 
     <Button
@@ -59,7 +43,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="click"
-        android:text="Scroll Year Cal"
+        android:text="滚动年日历"
         />
 
     <Button
@@ -67,16 +51,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="click"
-        android:text="Scroll Month Cal"
-        />
-
-    <Button
-        android:id="@+id/button8"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:onClick="click"
-        android:text="Scroll Complex"
-        android:visibility="gone"
+        android:text="滚动月日历"
         />
 
     <Button
@@ -85,6 +60,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:onClick="click"
-        android:text="MonthViewPager Demo"
+        android:text="左右翻页月日历"
         android:textAllCaps="false"/>
 </LinearLayout>

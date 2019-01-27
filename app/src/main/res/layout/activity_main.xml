@@ -64,14 +64,6 @@
         android:layout_marginTop="10dp"
         />
     <Button
-        android:id="@+id/btn52"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="1.仿Win8桌面菜单"
-        android:layout_marginTop="5dp"
-        android:textAllCaps="false"
-        />
-    <Button
         android:id="@+id/btn53"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -104,21 +96,6 @@
         android:text="5.菜单拖拉重新排列、可删除"
         android:layout_marginTop="5dp"
         />
-    <Button
-        android:id="@+id/btn11"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="6.方形菜单放大、缩小"
-        android:layout_marginTop="5dp"
-        />
-    <Button
-        android:id="@+id/btn7"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="7.圆形菜单放大，缩小"
-        android:layout_marginTop="5dp"
-        />
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -152,48 +129,6 @@
         android:textAllCaps="false"
         />
 
-    <!--<Button-->
-        <!--android:id="@+id/btn12"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:text="12.吸顶、拉伸效果"-->
-        <!--android:layout_marginTop="5dp"-->
-        <!--/>-->
-    <!--<Button-->
-        <!--android:id="@+id/btn13"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:text="13.汽车轨迹、落叶、人走动等效果"-->
-        <!--android:layout_marginTop="5dp"-->
-        <!--/>-->
-    <!--<Button-->
-        <!--android:id="@+id/btn14"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:text="14.统一风格+飞入、碎片等效果"-->
-        <!--android:layout_marginTop="5dp"-->
-        <!--/>-->
-    <!--<Button-->
-        <!--android:id="@+id/btn15"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:text="15.切换、抖动、混合效果"-->
-        <!--android:layout_marginTop="5dp"-->
-        <!--/>-->
-    <!--<Button-->
-        <!--android:id="@+id/btn16"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:text="16.放大、缩小、椭圆、多边形、红点、滤镜等效果"-->
-        <!--android:layout_marginTop="5dp"-->
-        <!--/>-->
-    <!--<Button-->
-        <!--android:id="@+id/btn17"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:text="17.渐变、动画"-->
-        <!--android:layout_marginTop="5dp"-->
-        <!--/>-->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -206,7 +141,7 @@
         android:id="@+id/btn3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="1.material design相关效果"
+        android:text="material design相关效果"
         android:layout_marginTop="5dp"
         android:textAllCaps="false"
         />
@@ -214,7 +149,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="其他效果"
+        android:text="日历相关效果"
         android:textSize="25sp"
         android:textStyle="bold"
         android:layout_marginTop="10dp"
@@ -223,28 +158,7 @@
         android:id="@+id/btn18"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="1.日历相关"
-        android:layout_marginTop="5dp"
-        />
-    <Button
-        android:id="@+id/btn8"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="2.水波纹、点扩散等"
-        android:layout_marginTop="5dp"
-        />
-    <Button
-        android:id="@+id/btn9"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="3.抖动效果"
-        android:layout_marginTop="5dp"
-        />
-    <Button
-        android:id="@+id/btn10"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="4.渐变、更替、翻页效果"
+        android:text="日历相关"
         android:layout_marginTop="5dp"
         />
 </LinearLayout>
