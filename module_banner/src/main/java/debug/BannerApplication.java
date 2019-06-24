@@ -12,7 +12,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by gxl on 2017/12/5.
+ * Created by mxdl on 2017/12/5.
  */
 
 public class BannerApplication extends BaseApplication {

@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by gxl on 2017/12/14.
+ * Created by mxdl on 2017/12/14.
  */
 @Route(path = "/imagepager/index")
 public class MainActivity extends AppCompatActivity {

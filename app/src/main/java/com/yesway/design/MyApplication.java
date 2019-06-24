@@ -4,7 +4,7 @@ import com.alibaba.android.arouter.launcher.ARouter;
 import com.yesway.design.common.BaseApplication;
 
 /**
- * Created by gxl on 2017/12/5.
+ * Created by mxdl on 2017/12/5.
  */
 
 public class MyApplication extends BaseApplication {

@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import com.slide.fragmenttabhost.fragmenttabhost.R;
 
 /**
- * Created by gxl on 2017-12-10.
+ * Created by mxdl on 2017-12-10.
  */
 public class MineFragment extends Fragment {
 

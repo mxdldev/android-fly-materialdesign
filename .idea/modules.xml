@@ -3,22 +3,40 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidMaterialDesign.iml" filepath="$PROJECT_DIR$/AndroidMaterialDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlyAndroidMaterialDesign.iml" filepath="$PROJECT_DIR$/FlyAndroidMaterialDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib_banner/lib_banner.iml" filepath="$PROJECT_DIR$/lib_banner/lib_banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_banner/lib_banner.iml" filepath="$PROJECT_DIR$/lib_banner/lib_banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_calendarview/lib_calendarview.iml" filepath="$PROJECT_DIR$/lib_calendarview/lib_calendarview.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib_calendarview/lib_calendarview.iml" filepath="$PROJECT_DIR$/lib_calendarview/lib_calendarview.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib_common/lib_common.iml" filepath="$PROJECT_DIR$/lib_common/lib_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_common/lib_common.iml" filepath="$PROJECT_DIR$/lib_common/lib_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_recycleview_swipe/lib_recycleview_swipe.iml" filepath="$PROJECT_DIR$/lib_recycleview_swipe/lib_recycleview_swipe.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib_recycleview_swipe/lib_recycleview_swipe.iml" filepath="$PROJECT_DIR$/lib_recycleview_swipe/lib_recycleview_swipe.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_activity_animation/module_activity_animation.iml" filepath="$PROJECT_DIR$/module_activity_animation/module_activity_animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_activity_animation/module_activity_animation.iml" filepath="$PROJECT_DIR$/module_activity_animation/module_activity_animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_banner/module_banner.iml" filepath="$PROJECT_DIR$/module_banner/module_banner.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_banner/module_banner.iml" filepath="$PROJECT_DIR$/module_banner/module_banner.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_calendar/module_calendar.iml" filepath="$PROJECT_DIR$/module_calendar/module_calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_calendar/module_calendar.iml" filepath="$PROJECT_DIR$/module_calendar/module_calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_channle_manager/module_channle_manager.iml" filepath="$PROJECT_DIR$/module_channle_manager/module_channle_manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_channle_manager/module_channle_manager.iml" filepath="$PROJECT_DIR$/module_channle_manager/module_channle_manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_drawerlayout_coordinatorlayout/module_drawerlayout_coordinatorlayout.iml" filepath="$PROJECT_DIR$/module_drawerlayout_coordinatorlayout/module_drawerlayout_coordinatorlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_drawerlayout_coordinatorlayout/module_drawerlayout_coordinatorlayout.iml" filepath="$PROJECT_DIR$/module_drawerlayout_coordinatorlayout/module_drawerlayout_coordinatorlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_fragmenttabhost/module_fragmenttabhost.iml" filepath="$PROJECT_DIR$/module_fragmenttabhost/module_fragmenttabhost.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_fragmenttabhost/module_fragmenttabhost.iml" filepath="$PROJECT_DIR$/module_fragmenttabhost/module_fragmenttabhost.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_fragmenttabhost_viewpager/module_fragmenttabhost_viewpager.iml" filepath="$PROJECT_DIR$/module_fragmenttabhost_viewpager/module_fragmenttabhost_viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_fragmenttabhost_viewpager/module_fragmenttabhost_viewpager.iml" filepath="$PROJECT_DIR$/module_fragmenttabhost_viewpager/module_fragmenttabhost_viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_image_pager/module_image_pager.iml" filepath="$PROJECT_DIR$/module_image_pager/module_image_pager.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_image_pager/module_image_pager.iml" filepath="$PROJECT_DIR$/module_image_pager/module_image_pager.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_recycleview_swipe/module_recycleview_swipe.iml" filepath="$PROJECT_DIR$/module_recycleview_swipe/module_recycleview_swipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_recycleview_swipe/module_recycleview_swipe.iml" filepath="$PROJECT_DIR$/module_recycleview_swipe/module_recycleview_swipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_tablayout/module_tablayout.iml" filepath="$PROJECT_DIR$/module_tablayout/module_tablayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_tablayout/module_tablayout.iml" filepath="$PROJECT_DIR$/module_tablayout/module_tablayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_transition/module_transition.iml" filepath="$PROJECT_DIR$/module_transition/module_transition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_transition/module_transition.iml" filepath="$PROJECT_DIR$/module_transition/module_transition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_video_pager/module_video_pager.iml" filepath="$PROJECT_DIR$/module_video_pager/module_video_pager.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_video_pager/module_video_pager.iml" filepath="$PROJECT_DIR$/module_video_pager/module_video_pager.iml" />
     </modules>
   </component>

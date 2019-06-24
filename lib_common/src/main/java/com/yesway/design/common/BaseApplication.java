@@ -14,7 +14,7 @@ import java.util.List;
 
 
 /**
- * Created by gxl on 2017/12/5.
+ * Created by mxdl on 2017/12/5.
  */
 
 public class BaseApplication extends MultiDexApplication {
